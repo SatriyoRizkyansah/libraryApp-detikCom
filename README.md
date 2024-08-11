@@ -6,6 +6,8 @@
 
 clone the repo
 
+https://github.com/SatriyoRizkyansah/libraryApp-detikCom.git
+
 change current directory
 
 ```
