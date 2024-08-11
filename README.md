@@ -6,8 +6,6 @@
 
 clone the repo
 
-```
-
 change current directory
 
 ```
@@ -76,4 +74,6 @@ username: admin
 password: admin
 
 ```
+
 # libraryApp-detikCom
+```
