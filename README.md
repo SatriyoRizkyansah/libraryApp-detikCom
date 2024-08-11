@@ -80,11 +80,3 @@ password: admin
 ```
 
 # libraryApp-detikCom
-
-```
-
-```
-
-```
-
-```
