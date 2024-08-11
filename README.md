@@ -54,6 +54,10 @@ php artisan migrate:fresh --seed
 
 ```
 
+ensure the symbolic link
+
+```
+
 php artisan storage:link
 
 ```
@@ -76,4 +80,11 @@ password: admin
 ```
 
 # libraryApp-detikCom
+
+```
+
+```
+
+```
+
 ```
